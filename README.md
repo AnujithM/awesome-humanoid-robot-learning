@@ -184,6 +184,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2024.10](https://arxiv.org/abs/2410.05681), Whole-Body Dynamic Throwing with Legged Manipulators
 - [arXiv 2024.09](https://arxiv.org/abs/2409.20514), Opt2Skill: Imitating Dynamically-feasible Whole-Body Trajectories for Versatile Humanoid Loco-Manipulation, [Website](https://opt2skill.github.io/)
 - [arXiv 2024.09](https://arxiv.org/abs/2409.15610), Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing
+- [arXiv 2024.08](https://arxiv.org/abs/2408.07295), Learning Multi-Modal Whole-Body Control for Real-World Humanoid Robots [website](https://masked-humanoid.github.io/mhc/)
 - [arXiv 2024.07](https://arxiv.org/abs/2407.12381), Flow Multi-Support: Flow Matching Imitation Learning for Multi-Support Manipulation, [video](https://www.youtube.com/watch?v=OyXojqRasHU) / [website](https://hucebot.github.io/flow_multisupport_website/)
 - [arXiv 2024.06](https://arxiv.org/abs/2406.14655v1), HYPERmotion: Learning Hybrid Behavior Planning for Autonomous Loco-manipulation, [website](https://hy-motion.github.io/)
 - 🌟 [arXiv 2024.06](https://arxiv.org/abs/2406.10454), HumanPlus: Humanoid Shadowing and Imitation from Humans, [website](https://humanoid-ai.github.io/) / [code](https://github.com/MarkFzp/humanplus)
@@ -207,7 +208,6 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.02](https://agile.human2humanoid.com/), **ASAP**: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, [website](https://agile.human2humanoid.com/)
 - [2024.08](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/), VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters, [website](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/)
 - [2024.07](https://la.disneyresearch.com/publication/robot-motion-diffusion-model-motion-generation-for-robotic-characters/), Robot Motion Diffusion Model: Motion Generation for Robotic Characters,
-
 ## Manipulation
 - 🌟[arXiv 2026.03](https://arxiv.org/abs/2603.12260), HumDex: Humanoid Dexterous Manipulation Made Easy
 - [arXiv 2026.03](https://arxiv.org/abs/2603.05493), cuRoboV2: Dynamics-Aware Motion Generation with Depth-Fused Distance Fields for High-DoF Robots
